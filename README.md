@@ -1,2 +1,0 @@
-# Hanacard
-Web 2
